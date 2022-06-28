@@ -1,0 +1,14 @@
+Package: AMinT
+Type: Package
+Title: Max-T test package
+Version: 0.1.0
+Author: Anjana Mondal
+Maintainer: Anjana Mondal <mondal.anjana25@gmail.com>
+Description: This package finds test statistic value and 
+            critical value of Max-T test for testing equality of means aginst 
+           ordered alternatives in one-way ANOVA model with heteroscedasticity.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Depends: MASS
+RoxygenNote: 7.2.0
